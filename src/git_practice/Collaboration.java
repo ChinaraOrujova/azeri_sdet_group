@@ -8,5 +8,7 @@ public class Collaboration {
 
         System.out.println("Best companies are waiting us:)");
 
+        System.out.println("Collaboration will be continued");
+
     }
 }
