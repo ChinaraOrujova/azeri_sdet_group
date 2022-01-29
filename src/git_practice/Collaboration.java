@@ -6,7 +6,7 @@ public class Collaboration {
 
         System.out.println("Best SDETs are loading...");
 
-
+        System.out.println("Best companies are waiting us:)");
 
     }
 }
